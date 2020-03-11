@@ -8,6 +8,7 @@ Here I storage some recordings of bat ultra-sounds performed in Lithuania, on th
 **FEEL FREE TO EDIT AND ADD COMMENTS TO THIS FILE**  
 
 **Localisation map**   
+
 ![Localisation](Lithuania_Curonian_spit_Bat_sampling.png)  
 
 
@@ -17,15 +18,19 @@ Here I storage some recordings of bat ultra-sounds performed in Lithuania, on th
 Files:  
 
 ### 20190501_Juodkranté/ARCTIA   
-* 20190502_193420: EPTNIL, 2 feeding buzzes  
+* 20190502_193420: EPTNIL (JR + JFG), 2 feeding buzzes  
 
 ### 20190501_Juodkranté/BISTON   
-* 20190501_191400: EPTNIL + NYCNOC  
-* 20190501_213340: EPTNIL, 2 individuals with trill or feeding buzz?  
-* 20190502_000600: EPTNIL + feeding buzz  
+* 20190501_191400: EPTNIL + NYCNOC (JR + JFG)  
+* 20190501_213340: EPTNIL (JR + JFG), 2 individuals with trill or feeding buzz?  
+* 20190502_000600: EPTNIL (JFG) + feeding buzz  
 
 ### 20190501_Juodkranté/MIMAS
 (* 20190501_193000: EPTNIL, 2 individuals: not added yet)
+
+### 20190501_Juodkranté/AGLIA  
+* 20190502_190720: VESMUR ? (JFG)  
+
 
 **Localisation of the detectors**   
 
@@ -37,16 +42,17 @@ Files:
 Files:  
 
 ### 20190927_Juodkranté/BISTON
-* 20190927_172500: EPTNIL with feeding buzz (+ PIPNAT)  
+* 20190927_172500: EPTNIL (JR + JFG) with feeding buzz (+ PIPNAT)  
 
 ### 20190927_Juodkranté/HYLES
-* 20190929_165240: EPTNIL with trill or feeding buzz (+ PIPNAT)  
+* 20190929_165240: EPTNIL (JFG) with trill or feeding buzz (+ PIPNAT)  
+* 20190930_013900: VESMUR ?? (JFG)  
 
 ### 20190927_Juodkranté/TYRIA
-* 20190927_165820: EPTNIL  
-* 20190928_165700: EPTNIL  
+* 20190927_165820: EPTNIL (JR + JFG)  
+* 20190928_165700: EPTNIL (YB + JFG)  
 
-* 20190927_212000 NYCLEI !?  
+* 20190927_212000 VESMUR ?? (not possible to identify for sure this recording, JR)  
 
 
 **Localisation of the detectors**   
